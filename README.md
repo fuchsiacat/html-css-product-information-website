@@ -12,6 +12,9 @@ I have used HTML5 and CSS3 versions.
 
 ![[product-info-website.png]]
 
+![product-info-website](https://user-images.githubusercontent.com/109484547/183516823-49a88f2b-0d31-4bbb-8ced-0ad78d877b47.png)
+
+
 HTML ve CSS ile oluşturulmuştur. Klimalar hakkında kısa bilgilendirme içeren web sitesidir.
 
 HTML5 ve CSS3 sürümlerini kullanılmıştır.
