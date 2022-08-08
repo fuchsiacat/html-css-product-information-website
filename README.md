@@ -10,8 +10,6 @@ I have used HTML5 and CSS3 versions.
 - There is a table where you can find out the degree of operation of air conditioners, their energy savings and capacity.
 
 
-![[product-info-website.png]]
-
 ![product-info-website](https://user-images.githubusercontent.com/109484547/183516823-49a88f2b-0d31-4bbb-8ced-0ad78d877b47.png)
 
 
